@@ -8,6 +8,7 @@ Everybody is welcome to use it and propose new ones
 
 - [RPM](#RPM)
 - [YUM](#YUM)
+- [DPKG](#DPKG)
 
 ### Dev tools
 
@@ -19,6 +20,7 @@ Everybody is welcome to use it and propose new ones
 #### YUM
 ![YUM](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/yum.png)
 ![YUM1](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/yum1.png)
+![DPKG](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/deb.jpg)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
