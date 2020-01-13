@@ -4,11 +4,11 @@ It's my own collection of different cheatsheets (mainly bash/ps/etc commands)
 
 Everybody is welcome to use it and propose new ones
 
-### Linux administrating
+### Linux administration
 
-- [RPM](#RPM)
-- [YUM](#YUM)
-- [DPKG](#DPKG)
+- [pip](#RPM)
+- [yum](#YUM)
+- [dpkg](#DPKG)
 
 ### Dev tools
 
