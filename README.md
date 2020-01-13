@@ -20,6 +20,8 @@ Everybody is welcome to use it and propose new ones
 #### YUM
 ![YUM](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/yum.png)
 ![YUM1](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/yum1.png)
+
+#### DPKG
 ![DPKG](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/deb.jpg)
 
 #### Pip
