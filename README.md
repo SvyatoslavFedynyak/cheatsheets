@@ -6,13 +6,13 @@ Everybody is welcome to use it and propose new ones
 
 ### Linux administration
 
-- [pip](#RPM)
+- [rpm](#RPM)
 - [yum](#YUM)
 - [dpkg](#DPKG)
 
 ### Dev tools
 
-- [Pip](#Pip)
+- [pip](#Pip)
 
 #### RPM
 ![RPM](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/rpm.jpg)
