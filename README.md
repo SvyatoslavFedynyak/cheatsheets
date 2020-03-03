@@ -14,6 +14,11 @@ Everybody is welcome to use it and propose new ones
 
 - [pip](#Pip)
 
+### Programming languages
+
+- [python](#Python)
+- [js](#JS)
+
 #### RPM
 ![RPM](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/rpm.jpg)
 
@@ -27,3 +32,8 @@ Everybody is welcome to use it and propose new ones
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
 
+#### Python
+![Python](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/python_cheatsheet.png)
+
+#### JS
+![Js](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/js_cheatsheet.png)
