@@ -4,18 +4,24 @@ It's my own collection of different cheatsheets (mainly bash/ps/etc commands)
 
 Everybody is welcome to use it and propose new ones
 
-### Linux administration
+## Linux administration
+
+### Package managers
 
 - [rpm](#RPM)
 - [yum](#YUM)
 - [dpkg](#DPKG)
 - [dnf](#DNF)
 
-### Dev tools
+### System tools
+
+- [systemd](#SYSTEMD)
+
+## Dev tools
 
 - [pip](#Pip)
 
-### Programming languages
+## Programming languages
 
 - [python](#Python)
 - [js](#JS)
@@ -32,6 +38,9 @@ Everybody is welcome to use it and propose new ones
 
 #### DNF
 ![DNF](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/dnf.jpg)
+
+#### SYSTEMD
+![SYSTEMD](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/systemd.jpg)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
