@@ -9,6 +9,7 @@ Everybody is welcome to use it and propose new ones
 - [rpm](#RPM)
 - [yum](#YUM)
 - [dpkg](#DPKG)
+- [dnf](#DNF)
 
 ### Dev tools
 
@@ -28,6 +29,9 @@ Everybody is welcome to use it and propose new ones
 
 #### DPKG
 ![DPKG](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/deb.jpg)
+
+#### DNF
+![DNF](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/dnf.jpg)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
