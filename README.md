@@ -40,7 +40,7 @@ Everybody is welcome to use it and propose new ones
 ![DNF](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/dnf.jpg)
 
 #### SYSTEMD
-![SYSTEMD](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/systemd.jpg)
+![SYSTEMD](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/systemd.png)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
