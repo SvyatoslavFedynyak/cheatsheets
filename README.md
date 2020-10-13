@@ -16,6 +16,7 @@ Everybody is welcome to use it and propose new ones
 ### System tools
 
 - [systemd](#SYSTEMD)
+- [gopass](#GOPASS)
 
 ## Dev tools
 
@@ -41,6 +42,9 @@ Everybody is welcome to use it and propose new ones
 
 #### SYSTEMD
 ![SYSTEMD](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/systemd.png)
+
+#### GOPASS
+![gopass](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/gopass.JPG)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
