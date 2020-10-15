@@ -18,6 +18,10 @@ Everybody is welcome to use it and propose new ones
 - [systemd](#SYSTEMD)
 - [gopass](#GOPASS)
 
+### Console utils
+
+- [tmux](#TMUX)
+
 ## Dev tools
 
 - [pip](#Pip)
@@ -45,6 +49,9 @@ Everybody is welcome to use it and propose new ones
 
 #### GOPASS
 ![gopass](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/gopass.JPG)
+
+#### TMUX
+![tmux](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/tmux.jpg)
 
 #### Pip
 ![Pip](https://github.com/SvyatoslavFedynyak/cheatsheets/blob/master/files/pip.jpg)
